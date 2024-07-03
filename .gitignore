@@ -1,0 +1,85 @@
+# Ignore compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.exe
+*.dll
+*.so
+*.out
+*.log
+
+# Ignore build directories
+target/
+bin/
+build/
+
+# Ignore dependency directories
+node_modules/
+vendor/
+
+# Ignore environment variables file
+.env
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.tmp.*
+*.swp
+
+# Ignore backup files created by text editors or IDEs
+*~
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python virtual environment
+venv/
+.env/
+
+# Ignore configuration files with sensitive information
+config.json
+secrets.json
+
+# Ignore SQLite database files
+*.sqlite3
+
+# Ignore images and other media
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore macOS metadata files
+.metadata
+
+# Ignore compiled TypeScript files
+*.js
+*.js.map
+
+# Ignore compiled Java files
+*.class
+
+# Ignore compiled C/C++ files
+*.o
+*.out
+*.exe
+
+# Ignore compiled PHP files
+*.php7
+*.php8
+
+# Ignore compiled Ruby files
+*.rb
+*.rbo
